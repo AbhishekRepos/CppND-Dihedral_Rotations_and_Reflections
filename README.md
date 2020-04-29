@@ -60,6 +60,6 @@ Tests for equality and inequality: an equals() method (Java) or == and != operat
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
-4. Run it: `./dihedral_generic`.
+4. Run it: `./dihedral`
 
 
