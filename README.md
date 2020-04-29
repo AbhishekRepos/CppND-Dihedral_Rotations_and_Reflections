@@ -12,7 +12,7 @@
 
 <img src="data/octagon.png"/>
 
-This is the project for the fourth course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Concurrency. 
+This is the final project for course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
 [Dihedral Group wiki](https://en.wikipedia.org/wiki/Dihedral_group)
 
