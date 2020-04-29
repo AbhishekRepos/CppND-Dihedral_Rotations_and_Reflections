@@ -1,20 +1,12 @@
 # CPPND: Program a collection of rotations and reflections of geometrical shapes.
 
-## Square rotations and reflections
+## Triangle rotations, reflections and Transition Matrix
 
-<img src="data/triangle.png"/>
+<img src="data/triangle.png"/>  <img src="data/transition_matrix_triangle.png"/>
 
-##Transition Matrix of Sqaure 
+## Square rotations, reflections and Transition Matrix
 
-<img src="data/transition_matrix_triangle.png"/>
-
-## Square rotations and reflections
-
-<img src="data/square.png"/>
-
-##Transition Matrix of Sqaure 
-
-<img src="data/transition_matrix_sqaure.png"/>
+<img src="data/square.png"/>  <img src="data/transition_matrix_sqaure.png"/>
 
 ## Octagone rotations and reflections
 
