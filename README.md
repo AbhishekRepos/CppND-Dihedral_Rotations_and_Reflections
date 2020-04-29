@@ -1,19 +1,19 @@
 # CPPND: Program a collection of rotations and reflections of geometrical shapes.
 
 ## Square rotations and reflections
-<img src="data/triangle.JPG"/>
+<img src="data/triangle.png"/>
 
 ##Transition Matrix of Sqaure 
-<img src="data/transition_matrix_triangle.JPG"/>
+<img src="data/transition_matrix_triangle.png"/>
 
 ## Square rotations and reflections
-<img src="data/square.JPG"/>
+<img src="data/square.png"/>
 
 ##Transition Matrix of Sqaure 
-<img src="data/transition_matrix_sqaure.JPG"/>
+<img src="data/transition_matrix_sqaure.png"/>
 
 ## Octagone rotations and reflections
-<img src="data/octagon.JPG"/>
+<img src="data/octagon.png"/>
 
 This is the project for the fourth course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Concurrency. 
 
